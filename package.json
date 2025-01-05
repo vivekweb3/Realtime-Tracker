@@ -1,13 +1,13 @@
 {
   "name": "realtime_tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A real-time tracking application using Node.js and Socket.io.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vivek kumar",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
